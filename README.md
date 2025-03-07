@@ -1,14 +1,14 @@
-🏨 Hospitality Revenue Management Dashboard
-📌 Project Overview
+# Hospitality Revenue Management Dashboard
+# Project Overview
 AtliQ Grands, a luxury hotel chain, has been facing challenges in maintaining its market share and revenue due to rising competition and ineffective decision-making. To overcome this, the company decided to leverage Business and Data Intelligence for better revenue management.
 
-Since AtliQ Grands lacked an in-house data analytics team, they outsourced the project to gain insights from their historical data.
+#Since AtliQ Grands lacked an in-house data analytics team, they outsourced the project to gain insights from their historical data.
 
-This project focuses on building a Power BI dashboard that provides key business metrics, revenue trends, and competitor benchmarking to support strategic decision-making.
+#This project focuses on building a Power BI dashboard that provides key business metrics, revenue trends, and competitor benchmarking to support strategic decision-making.
 
-🎯 Key Deliverables
-✅ Data Cleaning & Modeling – Processed raw data using Power Query to ensure data accuracy and consistency.
-
+# Key Deliverables
+- ##Data Cleaning & Modeling – Processed raw data using Power Query to ensure data accuracy and consistency.
+- 
 ✅ Data Transformation – Used DAX (Data Analysis Expressions) to calculate business metrics and custom insights.
 
 ✅ Dashboard Development – Designed an interactive Power BI dashboard based on stakeholder requirements.
