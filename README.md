@@ -24,7 +24,7 @@ This project focuses on building a Power BI dashboard that provides key business
 - Seasonality Analysis – Identifying high and low-demand periods
 - Custom Business Insights – Additional KPIs for revenue optimization
 
-🔍 Business Impact
-💡 Identified revenue leakage points and seasonal revenue fluctuations
-💡 Provided competitor-based pricing recommendations
-💡 Developed a data-driven strategy for better revenue forecasting
+# Business Impact
+- Identified revenue leakage points and seasonal revenue fluctuations
+- Provided competitor-based pricing recommendations
+- Developed a data-driven strategy for better revenue forecasting
